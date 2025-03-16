@@ -1,2 +1,4 @@
 # PathwayOS Store
-The official app store for the RedHat based PathwayOS Linux distribution.
+The official app store for PathwayOS.
+
+Available for Linux and Windows.
